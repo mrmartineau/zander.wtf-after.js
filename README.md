@@ -1,13 +1,7 @@
-# Razzle x After.js
+# Zander.wtf x After.js
+> [after.js](https://github.com/jaredpalmer/after.js) version of my [personal site](https://zander.wtf), which uses [next.js](https://github.com/zeit/next.js)
 
 ## How to use
-
-Download the example [or clone the whole project](https://github.com/jaredpalmer/razzle.git):
-
-```bash
-curl https://codeload.github.com/jaredpalmer/razzle/tar.gz/master | tar -xz --strip=2 razzle-master/examples/with-afterjs
-cd with-afterjs
-```
 
 Install it and run:
 
@@ -16,6 +10,3 @@ yarn install
 yarn start
 ```
 
-## Idea behind the example
-
-This is a basic, bare-bones example of how to use After.js and Razzle.
